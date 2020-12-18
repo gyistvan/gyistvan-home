@@ -1,0 +1,20 @@
+.left {
+  width: 30%;
+  padding-right: 3%;
+}
+
+.left p {
+  margin-top: 1vw;
+  font-family: "Rubik";
+  font-weight: 900;
+}
+
+.right {
+  width: 70%;
+  padding-left: 5%;
+}
+
+.right img {
+  height: 20vw;
+  object-fit: cover;
+}
