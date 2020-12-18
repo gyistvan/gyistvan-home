@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/gyistvan-home/static/css/main.41cf1f46.chunk.css",
+    "main.js": "/gyistvan-home/static/js/main.76b815ce.chunk.js",
+    "main.js.map": "/gyistvan-home/static/js/main.76b815ce.chunk.js.map",
+    "runtime-main.js": "/gyistvan-home/static/js/runtime-main.c347ff25.js",
+    "runtime-main.js.map": "/gyistvan-home/static/js/runtime-main.c347ff25.js.map",
+    "static/js/2.2dd14705.chunk.js": "/gyistvan-home/static/js/2.2dd14705.chunk.js",
+    "static/js/2.2dd14705.chunk.js.map": "/gyistvan-home/static/js/2.2dd14705.chunk.js.map",
+    "static/js/3.21f009a6.chunk.js": "/gyistvan-home/static/js/3.21f009a6.chunk.js",
+    "static/js/3.21f009a6.chunk.js.map": "/gyistvan-home/static/js/3.21f009a6.chunk.js.map",
+    "index.html": "/gyistvan-home/index.html",
+    "static/css/main.41cf1f46.chunk.css.map": "/gyistvan-home/static/css/main.41cf1f46.chunk.css.map",
+    "static/js/2.2dd14705.chunk.js.LICENSE.txt": "/gyistvan-home/static/js/2.2dd14705.chunk.js.LICENSE.txt",
+    "static/media/carousel-logo-bottom1.c1a1dbc5.svg": "/gyistvan-home/static/media/carousel-logo-bottom1.c1a1dbc5.svg",
+    "static/media/carousel-logo-bottom2.ec836564.svg": "/gyistvan-home/static/media/carousel-logo-bottom2.ec836564.svg",
+    "static/media/carousel-logo-top.e29a16ca.svg": "/gyistvan-home/static/media/carousel-logo-top.e29a16ca.svg",
+    "static/media/dhms1.fb87b5ec.png": "/gyistvan-home/static/media/dhms1.fb87b5ec.png",
+    "static/media/dhms2.437dbbdb.png": "/gyistvan-home/static/media/dhms2.437dbbdb.png",
+    "static/media/dhms3.56b6c5b8.png": "/gyistvan-home/static/media/dhms3.56b6c5b8.png",
+    "static/media/Header.css": "/gyistvan-home/static/media/header-bg.91ab5090.png",
+    "static/media/hegasztalcom1.c1549830.png": "/gyistvan-home/static/media/hegasztalcom1.c1549830.png",
+    "static/media/hegasztalcom2.398a2f24.png": "/gyistvan-home/static/media/hegasztalcom2.398a2f24.png",
+    "static/media/logo.6ce24c58.svg": "/gyistvan-home/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c347ff25.js",
+    "static/js/2.2dd14705.chunk.js",
+    "static/css/main.41cf1f46.chunk.css",
+    "static/js/main.76b815ce.chunk.js"
+  ]
+}
